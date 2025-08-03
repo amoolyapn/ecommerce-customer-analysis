@@ -27,13 +27,18 @@ This project uses an e-commerce customer behavior dataset sourced from Kaggle.
 - Most purchased products
 - Revenue per product category
 
-## 📈 Visuals
-| Product Sales | Revenue Trend |
-|---------------|---------------|
-| ![](images/product_sales.png) | ![](images/revenue_trend.png) |
 
-## 📂 How to Run
+## 📊 Data Visualizations
+1. Top Products by Revenue
+Bar chart showing which product categories earned the most revenue.
 
-```bash
-pip install -r requirements.txt
-python analysis.py
+2. Monthly Revenue Trend
+Line chart showing how total revenue changes each month.
+
+3. Device Usage
+Pie chart showing what devices (Mobile, Desktop, etc.) customers used to shop.
+
+4. Loyalty Program Members
+Bar chart comparing how many customers are in the loyalty program vs. not.
+
+
