@@ -13,12 +13,13 @@ This project analyzes customer purchase behavior using Python, Pandas, and Matpl
 - Matplotlib
 
 ## 📁 Dataset Overview
-Fields:
-- CustomerID
-- OrderDate
-- Product
-- Quantity
-- Price
+This project uses an e-commerce customer behavior dataset sourced from Kaggle.
+
+📊 Dataset Name: Ecommerce Consumer Behavior Analysis Data
+
+📁 Format: CSV
+
+📄 Records: Synthetic data representing customer purchases and behavior across various products and time periods
 
 ## 🔍 Key Insights
 - Repeat customers and top buyers
